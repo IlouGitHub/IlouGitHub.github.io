@@ -1,0 +1,57 @@
+h1{
+    margin-top: 10%;
+    text-shadow:#e7f6ff 0 -1px 0,
+    #a80a02 1px 1px 0,
+    #dd3705 2px 2px 0,
+    #fd8e3a 3px 3px 0,
+    #9b0102 4px 4px 0,
+    #541402 5px 5px 0,
+    #333 5px 5px 10px;color:#FFE200;
+    font-size:50px;
+}
+body{
+    background-color:#333;
+}
+p{
+    text-shadow:#e7f6ff 0 -1px 0,
+    #a74a0c 1px 1px 0,
+    #d97f32 2px 2px 0,
+    #f5993d 3px 3px 0,
+    #fec362 4px 4px 0,
+    #ffe687 5px 5px 0,
+    #333 5px 5px 10px;color:#F30034;
+    font-size: 40px;
+    margin-top:5%;
+}
+
+         
+a{
+    background-image: linear-gradient(to right, #FF512F 0%, #DD2476  51%, #FF512F  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    text-shadow:#ffe69a 0 -1px 0,
+    #ff6767 2px 2px 0,
+    #ca3333 3px 3px 0,
+    #770a0c 4px 4px 0,
+    #333 5px 5px 10px;color:#FFE5BF;
+    background-color:#2E8ECE;
+    font-size:200%;
+    margin-left:30%;
+    margin-right:30%;
+    margin-top:20%;
+  }
+
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
